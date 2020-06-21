@@ -6,9 +6,10 @@ A Colorado Board of Elections employee gave me a task which was to audit the mos
 
 1. Calculate the total number of congressional votes
 2. Get a complete list of candidates who received votes
-3. Calculate the total number o fvotes each candidate received
+3. Calculate the total number of votes each candidate received
 4. Calculate the percentage of votes each candidate won
 5. Determine the winnder of the election based on popular vote
+6. Calculate largest county turnout
 
 
 ## Resources
